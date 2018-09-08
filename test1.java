@@ -1,1 +1,1 @@
-echo jenkin job successfull
+echo "jenkin job successfull"
